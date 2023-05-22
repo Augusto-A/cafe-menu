@@ -1,5 +1,7 @@
 # cafe-menu
 
-Projeto desenvolvido no processo de apredizanem junto ao FreeCodeCamp. Trata-se de um menu de uma Cafeteria fictícia. Utilizando recursos como estruturais do HTML e elementos de estilos CSS.
+Projeto desenvolvido no processo de aprendizagem junto a FreeCodeCamp. Trata-se de um menu de uma Cafeteria fictícia. Utilizando recursos como estruturas HTML e elementos de estilos CSS.
 
-Visualização disponível em <https://augusto-a.github.io/cafe-menu/>.
+Project developed during the learning process with FreeCodeCamp. It is a menu for a fictional coffee shop. Utilizing resources such as HTML structures and CSS styling elements.
+
+Disponível em <https://augusto-a.github.io/cafe-menu/>.
